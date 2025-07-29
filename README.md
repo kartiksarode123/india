@@ -1,0 +1,2 @@
+I have developed a dedicated "Explore India" page in my website that highlights the rich culture, heritage, and famous places across the country. This page showcases India's diversity through a visually appealing layout using HTML and inline CSS. From historical monuments to cultural traditions, the page allows users to explore various aspects of India in a simple and interactive format. It reflects the beauty and uniqueness of Indian culture while providing educational and engaging content for visitors.
+
